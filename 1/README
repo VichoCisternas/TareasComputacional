@@ -1,0 +1,32 @@
+
+Este repositorio deberia contener:
+
+-auxngnuplot.awk
+-datos_sismos.dat
+-desarrollo.awk
+-ejecutable.sh
+-ordenador.sh
+-plotter
+-plotter 3D
+-README
+
+=====================================================
+
+Nombre: Vicente Cisternas
+Fecha: 23/05/2021
+Profesor: Christopher Paredes
+Ramo: Fisica computacional 1.
+
+=====================================================
+
+	-Me disculpo por la falta de tildes, para el curso estoy usando un notebook con teclado en ingles
+y se me hace dificil cambiar el idioma a cada rato.
+	-Algunos de estos programas pueden ser sitetizados en un solo archivo como lo es el aso de los .sh 
+o los plotter pero decidi dejarlos separados por comodidad.
+	-Ejecutando el archivo "ejecutable.sh" hara correr todos los otros archivos y entregara lo siguiente
+		"datos_finales" Como resultado a la pregunta 1.
+		"Grafico1" Como resultado al grafico 2D de la pregunta 2.
+		"Grafico2" Como resultado al grafico 3D de la pregunta 2.
+		"datos_gnuplot.dat" y "datos_ord.dat" son archivos residuales sin mayor importancia.
+
+

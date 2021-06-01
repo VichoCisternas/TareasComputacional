@@ -1,0 +1,28 @@
+
+Este repositorio deberia contener:
+
+-cli.c
+-modulo1.c
+-modulo2.c
+-lectura.c
+-main.c
+-Datos.txt
+-ejecutable.o
+-modulos.h
+-Makefile
+-README
+
+=====================================================
+
+Nombre: Vicente Cisternas
+Fecha: 1/06/2021
+Profesor: Christopher Paredes
+Ramo: Fisica computacional 1.
+
+=====================================================
+
+	-El contenido de la tarea puede ser encontrada al usar el archivo makefile y posteriormente hacer uso de el ejecutable entregado.
+	-Esta no contiene la documentacion con dyoxigen o la comprobacion de los datos mediante el uso de CLI
+	-El archivo "Datos.txt" fue usado como un ejemplo para comprobar el funcionamiento del programa y puede ser reemplazado por otro con datos distintos pero estos deben mantener la estructura general dada en ese archivo.
+
+
